@@ -1,37 +1,32 @@
-#menu-outer {
-	height: 84px;
-	background: url(images/bar-bg.jpg) repeat-x;
-}
-
-.table {
-	display: table;   /* Allow the centering to work */
-	margin: 0 auto;
-}
-
-ul#horizontal-list {
-	min-width: 696px;
-	list-style: none;
-	padding-top: 20px;
-	}
-	ul#horizontal-list li {
-		display: inline;
-	}
 <html>
 	<body>
-		<h1><b>Welcome to my Portfolio!</b></h1>
-	  <h2>About me</h2>
-	  <p>Hi, my name is Darshan and I am a Master's student at NYU Tandon, majoring in Computer Science</p>
-	  <p>I grew up in Mumbai with a fast paced life. I never wanted to chose Medical and being a math lover there was no option left for me but Engineering!</p>
-	  <p>For me, programming is something you can express your state of mind that end up solve problems faced in the world. I love playing cricket and table tennis.I consider myself to be competitive when coming to sports.On Adventure side, I like to trek, one of the memorable trek is Jogini Falls (Manali, India)</p>
-	  <div id="menu-outer">
-		  <div class="table">
-		    <ul id="horizontal-list">
-		      <li><a href="#"><img src="images/list-item-1.gif" alt="list item 1" /></a></li>
-		      <li><a href="#"><img src="images/list-item-2.gif" alt="list item 2" /></a></li>
-		      <li><a href="#"><img src="images/list-item-3.gif" alt="list item 3" /></a></li>
-		      <li><a href="#"><img src="images/list-item-4.gif" alt="list item 4" /></a></li>
-		    </ul>
-		  </div>
-	</div>
+	<h1><b>Welcome to my Portfolio!</b></h1>
+	<h2>About me</h2>
+	<p>Hi, my name is Darshan and I am a Master's student at NYU Tandon, majoring in Computer Science.I grew up in Mumbai with a fast paced life. I never wanted to chose 			Medical and being a math lover there was no option left for me but Engineering!For me, programming is something you can express your state of mind that end up 			solve problems faced in the world. I love playing cricket and table tennis.I consider myself to be competitive when coming to sports.On Adventure side, I like to 		  trek, one of the memorable trek is Jogini Falls (Manali, India)
+	</p>
+		<h2> How I can be help to you? </h2>
+		<p> I hold an expertise and interests in Machine Learning, Natural Language Processing and Data Science. Being at NYU, hands-on experience on these domain has honed my skills and certainly instigate to delve into research-side of it as well.</p>
+	<div>
+		<h3> Academic Qualification </h3>
+		<p> I would like to showcase, some of my research and industry oriented projects </p>
+		<h4>StackOverFlow Parser</h4>
+		<ul class="p1 ">
+		    <li>This project work is inspired from Microsoft & Github open challenge CodeSearchNet project</li>
+		    <li>It tries to map human given technical query with the code snippet they might be looking for</li>
+		    <li>It involves training of ~3 billion parameters to translate human tech queries with help of self generated word embeddings</li>
+		 </ul>
+		<h4> News-Sentiment Analysis </h4>
+		<ul class="p2 ">
+		    <li>This projects demonstrate how news media influence peoples' life in the US</li>
+		    <li>It answer's average trend over the years, with the kind of news (business, crime, injustice, politics) they publish on there portal</li>
+		    <li>Further research, use of advance NLP to infere the level of negative/postive impact on people's mental health by reading those news</li>
+		 </ul>
+		<h4>Covid Preventor</h4>
+		<ul class="p3 ">
+		    <li>This projects demonstrate how a organization could monitor and maintain social distancing norms</li>
+		    <li>It uses historical publicly available data, to estimate the number of people at any location at any point in time</li>
+		    <li>Finally, with insighst from data, scheduler is being developed to approve/reject employee request to come to office for work</li>
+		 </ul>
+	</div>	
 	</body>
 </html>
