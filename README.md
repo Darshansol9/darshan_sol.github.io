@@ -9,20 +9,26 @@
 	<div>
 		<h3> Academic Qualification </h3>
 		<p> I would like to showcase, some of my research and industry oriented projects </p>
+		<h4> London Olympics Local Business Impact </h4>
+			<ul class="p1">
+		    		<li>This was a Citadel Datathon Competition, which revolves around knowing the economic impact when a Country Host Olympics</li>
+		    		<li>Collaborated with a team of 4, to build predictive model on how local business is impacted for London City</li>
+		    		<li>Showcased our work for 400 venues across London City, will extensive feature engineering and EDA</li>
+		 	</ul>
 		<h4>StackOverFlow Parser</h4>
-		<ul class="p1 ">
+		<ul class="p2">
 		    <li>This project work is inspired from Microsoft & Github open challenge CodeSearchNet project</li>
 		    <li>It tries to map human given technical query with the code snippet they might be looking for</li>
 		    <li>It involves training of ~3 billion parameters to translate human tech queries with help of self generated word embeddings</li>
 		 </ul>
 		<h4> News-Sentiment Analysis </h4>
-		<ul class="p2 ">
+		<ul class="p3">
 		    <li>This projects demonstrate how news media influence peoples' life in the US</li>
 		    <li>It answer's average trend over the years, with the kind of news (business, crime, injustice, politics) they publish on there portal</li>
 		    <li>Further research, use of advance NLP to infere the level of negative/postive impact on people's mental health by reading those news</li>
 		 </ul>
 		<h4>Covid Preventor</h4>
-		<ul class="p3 ">
+		<ul class="p4">
 		    <li>This projects demonstrate how a organization could monitor and maintain social distancing norms</li>
 		    <li>It uses historical publicly available data, to estimate the number of people at any location at any point in time</li>
 		    <li>Finally, with insighst from data, scheduler is being developed to approve/reject employee request to come to office for work</li>
