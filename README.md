@@ -39,14 +39,11 @@
           <p class="personal-profile__work">ML Engineer, NLP Researcher, Data Scientist</p>
           <div class="personal-profile__contacts">
             <dl class="contact-list contact-list__opacity-titles">
-              <dt>Age:</dt>
-              <dd>24</dd>
-              <dt>Phone:</dt>
-              <dd><a href="#">+1 3474544516</a></dd>
-	      <dt>Email:</dt>
-              <dt>Address:</dt>
-              <dd>Brooklyn, New York, USA</dd>
+		    <dt>Age:24</dt>
+		    <dt>Phone:+1 3474544516</dt>
+	      	    <dt>Email:darshansolanki9975@gmail.com</dt>
+                    <dt>Address:Brooklyn, New York, USA</dt>
             </dl>
 	</div>
-	</body>
+</body>
 </html>
