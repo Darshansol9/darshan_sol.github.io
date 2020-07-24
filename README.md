@@ -23,7 +23,7 @@
 		 </ul>
 		<h4> News-Sentiment Analysis </h4>
 		<ul class="p3">
-		    <li>This projects demonstrate how news media influence peoples' life in the US</li>
+		    <li>This projects demonstrate how news media could influence peoples' thought process, by being selective biased in news they publish</li>
 		    <li>It answer's average trend over the years, with the kind of news (business, crime, injustice, politics) they publish on there portal</li>
 		    <li>Further research, use of advance NLP to infere the level of negative/postive impact on people's mental health by reading those news</li>
 		 </ul>
