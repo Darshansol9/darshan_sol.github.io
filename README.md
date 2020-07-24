@@ -1,6 +1,15 @@
 <html>
 	<body>
-	<h1><b>Welcome to my Portfolio!</b></h1>
+		<h1> Darshan Solanki </h1>
+		<p>ML Engineer, NLP Researcher, Data Scientist</p>
+		<div class="personal-profile__contacts">
+            		<dl class="contact-list contact-list__opacity-titles">
+		    		<dt>Age:24</dt>
+		    		<dt>Phone:+1 3474544516</dt>
+	      	    		<dt>Email:darshansolanki9975@gmail.com</dt>
+                    		<dt>Address:Brooklyn, New York, USA</dt>
+            		</dl>
+		</div>
 	<h2>About me</h2>
 	<p>Hi, my name is Darshan and I am a Master's student at NYU Tandon, majoring in Computer Science.I grew up in Mumbai with a fast paced life. I never wanted to chose 			Medical and being a math lover there was no option left for me but Engineering!For me, programming is something you can express your state of mind that end up 			solve problems faced in the world. I love playing cricket and table tennis.I consider myself to be competitive when coming to sports.On Adventure side, I like to 		  trek, one of the memorable trek is Jogini Falls (Manali, India)
 	</p>
@@ -33,17 +42,5 @@
 		    <li>It uses historical publicly available data, to estimate the number of people at any location at any point in time</li>
 		    <li>Finally, with insighst from data, scheduler is being developed to approve/reject employee request to come to office for work</li>
 		 </ul>
-	</div>
-	<div class="col-md-8">
-          <p class="personal-profile__name">Darshan Solanki</p>
-          <p class="personal-profile__work">ML Engineer, NLP Researcher, Data Scientist</p>
-          <div class="personal-profile__contacts">
-            <dl class="contact-list contact-list__opacity-titles">
-		    <dt>Age:24</dt>
-		    <dt>Phone:+1 3474544516</dt>
-	      	    <dt>Email:darshansolanki9975@gmail.com</dt>
-                    <dt>Address:Brooklyn, New York, USA</dt>
-            </dl>
-	</div>
 </body>
 </html>
