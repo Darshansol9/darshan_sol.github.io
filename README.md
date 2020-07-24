@@ -1,7 +1,7 @@
 <html>
 	<body>
 		<h1> Darshan Solanki </h1>
-		<p>ML Engineer, NLP Researcher, Data Scientist</p>
+		<h2>ML Engineer, NLP Researcher, Data Scientist</h2>
 		<div class="personal-profile__contacts">
             		<dl class="contact-list contact-list__opacity-titles">
 		    		<dt>Age:24</dt>
@@ -17,7 +17,7 @@
 		<p> I hold an expertise and interests in Machine Learning, Natural Language Processing and Data Science. Being at NYU, hands-on experience on these domain has honed my skills and certainly instigate to delve into research-side of it as well.</p>
 	<div>
 		<h3> Academic Qualification </h3>
-		<p> I would like to showcase, some of my research and industry oriented projects </p>
+		<br></br>
 		<h4> London Olympics Local Business Impact </h4>
 			<ul class="p1">
 		    		<li>This was a Citadel Datathon Competition, which revolves around knowing the economic impact when a Country Host Olympics</li>
@@ -42,5 +42,10 @@
 		    <li>It uses historical publicly available data, to estimate the number of people at any location at any point in time</li>
 		    <li>Finally, with insighst from data, scheduler is being developed to approve/reject employee request to come to office for work</li>
 		 </ul>
+		<h2> Contact </h2>
+		<a href='https://www.linkedin.com/in/darshan-solanki/' >LinkedIn </a><br></br>
+		<a href='https://github.com/Darshansol9/' >Github</a><br></br>
+		<a href='https://www.kaggle.com/darshan9/'>Kaggle </a><br></br>
+		<a href='medium.com/@darshansolanki9975/'>Medium </a>
 </body>
 </html>
