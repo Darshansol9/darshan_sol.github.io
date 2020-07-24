@@ -44,7 +44,7 @@
 		 </ul>
 		<h2> Contact </h2>
 		<a href='https://www.linkedin.com/in/darshan-solanki/' >LinkedIn </a><br></br>
-		<a href='https://github.com/Darshansol9/' >Github</a><br></br>
+		<a href='https://github.com/Darshansol9/'>Github</a><br></br>
 		<a href='https://www.kaggle.com/darshan9/'>Kaggle </a><br></br>
 		<a href='medium.com/@darshansolanki9975/'>Medium </a>
 </body>
