@@ -33,6 +33,20 @@
 		    <li>It uses historical publicly available data, to estimate the number of people at any location at any point in time</li>
 		    <li>Finally, with insighst from data, scheduler is being developed to approve/reject employee request to come to office for work</li>
 		 </ul>
-	</div>	
+	</div>
+	<div class="col-md-8">
+          <p class="personal-profile__name">Darshan Solanki</p>
+          <p class="personal-profile__work">ML Engineer, NLP Researcher, Data Scientist</p>
+          <div class="personal-profile__contacts">
+            <dl class="contact-list contact-list__opacity-titles">
+              <dt>Age:</dt>
+              <dd>24</dd>
+              <dt>Phone:</dt>
+              <dd><a href="#">+1 3474544516</a></dd>
+	      <dt>Email:</dt>
+              <dt>Address:</dt>
+              <dd>Brooklyn, New York, USA</dd>
+            </dl>
+	</div>
 	</body>
 </html>
